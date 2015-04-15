@@ -1,0 +1,20 @@
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes.dex : \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\com\algonquincollege\davi0645\BuildConfig.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\com\algonquincollege\davi0645\CordovaApp.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\com\algonquincollege\davi0645\R$attr.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\com\algonquincollege\davi0645\R$drawable.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\com\algonquincollege\davi0645\R$string.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\com\algonquincollege\davi0645\R$xml.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\com\algonquincollege\davi0645\R.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactInfoDTO.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$1.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$2.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$3.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$4.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager$1.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager.class \
+C:\Users\Mike\Desktop\midterm\platforms\android\ant-build\dexedLibs\classes-ef384b9ed178c730880779359f32fa37.jar \

@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Davidson App Framework</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+    <script type='application/javascript' src='fastclick.js'></script>
+    <script src="cordova.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+	<div id="navbar" class="clearfix">
+      <ul>
+        <li><img src="home.png" id="homepic"></li>
+        <li><img id="locationpic" src="location.png"></li>
+        <li><img id="contactspic" src="contacts.png"></li>
+      </ul>
+    </div>
+	<div id="pages">
+		<div id="home" class="active" data-role="page">
+        	<h1>Home Page</h1>
+            <p>This is the homepage of the greatest app EVAR!</p>
+        </div>
+        <div id="location" class="inactive" data-role="page">
+        	<h1>Your Location</h1>
+            <p>I'm a super spy, check out your location below!</p>
+            <div id="output">
+            	
+            </div>
+        </div>
+        <div id="contacts" class="inactive" data-role="page">
+        	<h1>Contacts</h1>
+            <p>Here is a random phone contact:</p>
+            <div id="contactoutput">
+
+            </div>
+        </div>
+	</div>	
+</body>
+</html>
